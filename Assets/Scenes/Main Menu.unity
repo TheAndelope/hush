@@ -945,15 +945,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3735554358828024817, guid: b55b257dbf2d1ee41bc66a982cb79474, type: 3}
       propertyPath: m_Text
-      value: 'Team Lead and 3D Moderler: Andy Duong
+      value: 'Team Lead and 3D Modeler: Andy Duong
 
-        UI Design and Audio
-        Recognition: Brian Tram
+        UI Design and Audio Recognition:
+        Brian Tram
 
         Gameplay Design: Jerry Liu
 
-        AI and
-        Monster Logical Design: Stephen Chen
+        AI and Monster Logical
+        Design: Stephen Chen
 
 
         Submission to HawkHacks 2024'
