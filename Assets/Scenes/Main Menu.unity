@@ -318,7 +318,7 @@ GameObject:
   - component: {fileID: 485798248}
   - component: {fileID: 485798247}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -777,8 +777,8 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 176229301407833676, guid: c1882090335e58243bf64f2062736624, type: 3}
       propertyPath: m_Text
-      value: 'Trapped in a high school overnight, you are faced with the challenge
-        of a haunted horror. Explore your ways around the vast corridors and rooms,
+      value: 'Trapped in a facility overnight, you are faced with the challenge of
+        a haunted horror. Explore your ways around the vast corridors and rooms,
         as curiousity will become the "keys" to your survival. Withstanding its sense
         will be difficult, so hush...
 
